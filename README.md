@@ -31,7 +31,7 @@ This project simulates a real-world data analyst workflow used in transportation
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 * **SQL** – Data extraction, filtering, and aggregation
 * **Python**
