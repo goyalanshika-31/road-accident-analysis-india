@@ -74,7 +74,7 @@ road-accident-analysis-india
 
 ---
 
-## 🔎 Key Insights
+##  Key Insights
 
 * **State Highways** recorded the highest accident frequency.
 * **Goa** emerged as the state with the highest accident count.
@@ -84,7 +84,7 @@ road-accident-analysis-india
 
 ---
 
-## 📈 Business Recommendations
+##  Business Recommendations
 
 * Improve road lighting infrastructure in accident-prone regions.
 * Increase monitoring and traffic enforcement on State Highways.
@@ -94,7 +94,7 @@ road-accident-analysis-india
 
 ---
 
-## 🚀 How to Use This Project
+##  How to Use This Project
 
 1. Download the dataset from `/data`
 2. Execute SQL queries available in `/sql`
@@ -103,7 +103,7 @@ road-accident-analysis-india
 
 ---
 
-## 📊 Skills Demonstrated
+##  Skills Demonstrated
 
 * Data Cleaning & Preparation
 * Exploratory Data Analysis (EDA)
@@ -113,7 +113,7 @@ road-accident-analysis-india
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Anshika Goel**
 Aspiring Data Analyst
