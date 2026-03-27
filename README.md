@@ -33,18 +33,13 @@ This project simulates a real-world data analyst workflow used in transportation
 
 ## 🛠 Tools & Technologies
 
-- **SQL** – Data extraction, filtering, and aggregation
-- **Python**
+* **SQL** – Data extraction, filtering, and aggregation
+* **Python**
 
-  - **NumPy** – Numerical computations
-  - **Pandas** – Data cleaning & analysis
-  - **Matplotlib** – Data visualization
-  - **Seaborn** – Statistical visualizations
-    
-- **Microsoft Excel / Google Sheets** – Interactive dashboard creation
-- **Data Visualization & Analytical Reporting**
+  * **Pandas** – Data cleaning and analysis
+* **Microsoft Excel / Google Sheets** – Interactive dashboard creation
+* **Data Visualization & Analytical Reporting**
 
----
 
 ## Project Workflow
 
