@@ -1,3 +1,8 @@
+/*
+Road Accident Analysis Project
+Author: Anshika Goel
+Description: SQL queries used for accident analysis dashboard
+*/
 CREATE TABLE accidents (
 state_name TEXT,
 city_name TEXT,
